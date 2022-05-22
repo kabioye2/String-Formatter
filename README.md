@@ -1,0 +1,2 @@
+# String-Formatter
+This question involves the process of taking a list of words and producing a formatted string of a specified length. The list contains at least two words, consisting of letters only. When the formatted string is constructed, spaces are placed in the gaps between words so that as many spaces as possible or evenly distributed to each gap. The equal number of spaces inserted into each gap is referred to as the basic gap width. Any leftover spaces are inserted one at a time into the gap from left to right until there are no more leftover spaces.
